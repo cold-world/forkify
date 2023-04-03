@@ -13,7 +13,7 @@ Features ->
 * * *
 ### [Demo](https://cold-world.github.io/forkify/)
 
-![Alt Text](https://i.ibb.co/SrNF52W/Screenshot-2023-03-28-211243.jpg)
+![Alt Text](https://i.imgur.com/NLlc11T.gif)
 
 * * *
 
